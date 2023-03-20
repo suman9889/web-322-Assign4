@@ -8,9 +8,9 @@
 *  Student ID: 129642203
 *  Date: 20/03/2023
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL: https://helpful-bear-trousers.cyclic.app
 * 
-*  GitHub Repository URL: ______________________________________________________
+*  GitHub Repository URL: https://github.com/suman9889/web-322-Assign4
 *
 ********************************************************************************/
 
